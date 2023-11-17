@@ -5,8 +5,8 @@ import { useState } from 'react';
 const TestPage = () => {
 
     const [token, setToken]=useState();
-    const appKey = 'PSZYGLLq4oWQvJX3bwmFrlI9vCwVokcjevAa';
-    const appSecret = 'xk/qx3nhpywG9e+pD8sm8CCHZQsaCxIG4nPEOyEne9XPqdccjAuNXkQCejPhgZIXEOqDD6smg4SNO6JjH4m77ynVA+sh9WDP9YBxHa/TviGzkVBA0B46U2ZwDZ0i/0IkbyIpWB6AYsmLmhrwTkGyzF/2fGxqvu0YeXrUIR70vHRRgjQzDzc=';
+    const appKey = '';
+    const appSecret = '';
     const domain = 'https://openapivts.koreainvestment.com:29443';
     // const help = 'https://cors-anywhere/herokuapp.com';
 
